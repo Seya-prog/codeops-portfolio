@@ -1,3 +1,3 @@
 # CodeOps Portfolio
 This repository contains my portfolio of work for the CodeOps Full Stack SD program.
-Student Name: [Your Name Here]
+Student Name: Seid Muhidin
