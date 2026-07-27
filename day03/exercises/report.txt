@@ -1,0 +1,7 @@
+Customer Spending Summary
+------------------------------
+Almaz: 200.50 ETB
+Hanna: 200.00 ETB
+Dawit: 120.00 ETB
+Tigist: 120.00 ETB
+Samuel: 15.00 ETB

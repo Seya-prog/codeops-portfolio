@@ -23,13 +23,17 @@ print("Cheap items (under 200):", cheap)
 print("\n---")
 
 # 5. Write & read
+import os
+script_dir = os.path.dirname(__file__)
+names_file = os.path.join(script_dir, "names.txt")
+
 names = ["Almaz", "Dawit", "Tigist"]
-with open("names.txt", "w") as f:
+with open(names_file, "w") as f:
     for name in names:
         f.write(f"{name}\n")
 
 print("Reading names.txt:")
-with open("names.txt", "r") as f:
+with open(names_file, "r") as f:
     for line in f:
         print(line.strip())
 print("\n---")

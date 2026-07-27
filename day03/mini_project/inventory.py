@@ -1,6 +1,7 @@
 import os
 
-stock_file = "stock.txt"
+script_dir = os.path.dirname(__file__)
+stock_file = os.path.join(script_dir, "stock.txt")
 stock = {}
 
 # 1. Read stock from file

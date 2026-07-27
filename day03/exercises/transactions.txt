@@ -1,0 +1,7 @@
+Almaz,150.50
+Dawit,80.00
+Almaz,50.00
+Tigist,120.00
+Dawit,40.00
+Hanna,200.00
+Samuel,15.00
